@@ -200,7 +200,7 @@ body {
 /* Start landing section */
 
 .landing {
-    background-image: url("/img/landing.jpg");
+    background-image: url("../img/landing.jpg");
     background-size: cover;
     /* 64px is the hight of the header */
     height: calc(100vh - 64px);
